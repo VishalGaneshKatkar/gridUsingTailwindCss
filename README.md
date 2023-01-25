@@ -1,4 +1,4 @@
 # gridUsingTailwindCss
 
-# Link
+# LINK
 > [gridUsingTailwindCss](https://vishalganeshkatkar.github.io/gridUsingTailwindCss/)
